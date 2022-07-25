@@ -1,2 +1,2 @@
 # balugithub
-This is for storing programming files into git
+This is for storing Python_DataScience files into git
