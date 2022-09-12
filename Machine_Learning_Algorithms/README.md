@@ -7,7 +7,7 @@
 - 4.There are four types of machine learning algorithms: supervised, semi-supervised, unsupervised and reinforcement.
 
 ## 2.Objective
-- In this project, we have are focusing on learning, understanding Machine Laearning and its type practically by implementing them on Jupyter notebook using Python Packages Sckit-learn Machine Learning Package. 
+- In this project, we are focusing on learning, understanding Machine Laearning and its type practically by implementing them on Jupyter notebook using Python Sckit-learn Machine Learning Package. 
 
 ## 3.Steps to execute this Project.
 - NOTE:You can go through the each and every ML algorithm and can use or download for your understanding and reference purpose.
