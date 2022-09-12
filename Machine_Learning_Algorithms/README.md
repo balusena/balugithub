@@ -1,10 +1,10 @@
 ## Machine Learning Algorithms
 
 ## 1.Introduction
--1. The term ‘machine learning’ is often, incorrectly, interchanged with Artificial Intelligence, but machine learning is actually a sub field/type of AI. Machine learning is also often referred to as predictive analytics, or predictive modelling.
--2. Coined by American computer scientist Arthur Samuel in 1959, the term ‘machine learning’ is defined as a “computer’s ability to learn without being explicitly programmed”.
--3. At its most basic, machine learning uses programmed algorithms that receive and analyse input data to predict output values within an acceptable range. As new data is fed to these algorithms, they learn and optimise their operations to improve performance, developing ‘intelligence’ over time.
--4. There are four types of machine learning algorithms: supervised, semi-supervised, unsupervised and reinforcement.
+- 1.The term ‘machine learning’ is often, incorrectly, interchanged with Artificial Intelligence, but machine learning is actually a sub field/type of AI. Machine learning is also often referred to as predictive analytics, or predictive modelling.
+- 2.Coined by American computer scientist Arthur Samuel in 1959, the term ‘machine learning’ is defined as a “computer’s ability to learn without being explicitly programmed”.
+- 3.At its most basic, machine learning uses programmed algorithms that receive and analyse input data to predict output values within an acceptable range. As new data is fed to these algorithms, they learn and optimise their operations to improve performance, developing ‘intelligence’ over time.
+- 4.There are four types of machine learning algorithms: supervised, semi-supervised, unsupervised and reinforcement.
 
 ## 2.Objective
 - In this project, we have are focusing on learning, understanding Machine Laearning and its type practically by implementing them on Jupyter notebook using Python Packages Sckit-learn Machine Learning Package. 
