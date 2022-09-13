@@ -57,32 +57,32 @@
 - The app is deployed on Heroku at https://stock-price-prediction-appli.herokuapp.com
 
 ## Follow thse steps to deploy your streamlit app successfully into Heroku Cloud Platform
--- Deploy using Heroku Git
--  Use git in the command line or a GUI tool to deploy this app.
+- Deploy using Heroku Git
+- Use git in the command line or a GUI tool to deploy this app.
 
--  Install the Heroku CLI
--  Download and install the Heroku CLI.
+- Install the Heroku CLI
+- Download and install the Heroku CLI.
 
--  If you haven't already, log in to your Heroku account and follow the prompts to create a new SSH public key.
+- If you haven't already, log in to your Heroku account and follow the prompts to create a new SSH public key.
 
--- $ heroku login
--  Clone the repository
--  Use Git to clone stock-price-prediction-appli's source code to your local machine.
+- $ heroku login
+- Clone the repository
+- Use Git to clone stock-price-prediction-appli's source code to your local machine.
 
--- $ heroku git:clone -a stock-price-prediction-appli 
--- $ cd stock-price-prediction-appli
+- $ heroku git:clone -a stock-price-prediction-appli 
+- $ cd stock-price-prediction-appli
 
--- Deploy your changes
--  Make some changes to the code you just cloned and deploy them to Heroku using Git.
+- Deploy your changes
+- Make some changes to the code you just cloned and deploy them to Heroku using Git.
 
--- $ git add .
--- $ git commit -am "stock-price-prediction-appli_commit"
--- $ git push heroku master
+- $ git add .
+- $ git commit -am "stock-price-prediction-appli_commit"
+- $ git push heroku master
 
 ## 6.Further work to be done
--1.The current implementation would work well for Stocks not in the dataset selection. It will also work for stocks that are listed in yahoo finance online site.
--2.Need to implement the stock predictions on different stocks by using other finance python packages Alpha vintage, Pandas DataReaders, Twelve Data and compare results
--3.Aiming to work with larger and real-world-stock-dataset and build an end to end stock_price_trend_prediction application.
--4.Find a way to pedict the trend of different stocks with time series implementation (I would be grateful if someone could help me on this project enhancement.)
+- 1.The current implementation would work well for Stocks not in the dataset selection. It will also work for stocks that are listed in yahoo finance online site.
+- 2.Need to implement the stock predictions on different stocks by using other finance python packages Alpha vintage, Pandas DataReaders, Twelve Data and compare results
+- 3.Aiming to work with larger and real-world-stock-dataset and build an end to end stock_price_trend_prediction application.
+- 4.Find a way to pedict the trend of different stocks with time series implementation (I would be grateful if someone could help me on this project enhancement.)
 
 
