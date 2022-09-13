@@ -3,7 +3,7 @@
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
 ## 1.Movie Recommendations For You
-![Movie Recommendation!](Movie_Recommender_System_KNN/yt_thumb.jpg)
+![Movie Recommendation!](Movie_Recommender_System_KNN/yt_thumb.JPG)
 
 ## 2.Source
 - [IMDB Top_5000 Movies Data](https://github.com/balusena/balugithub/tree/master/Movie_Recommender_System_KNN/Data)
@@ -30,10 +30,10 @@
 
 ## 5.Screenshots
 ### Movie based Recommendation
-![Movie Recommendation!](Movie_Recommender_System_KNN/t1.png")
+![Movie Recommendation!](Movie_Recommender_System_KNN/t1.PNG")
 
 ### Genre based Recommendation
-![Movie Recommendation!](Movie_Recommender_System_KNN/t2.png")
+![Movie Recommendation!](Movie_Recommender_System_KNN/t2.PNG")
 
 ## 6.Heroku deployment
 - The app is deployed on Heroku at ===> https://movie-recommender-engine-knn.herokuapp.com/
