@@ -4,7 +4,7 @@
 - 1.Deep learning is a type of machine learning and artificial intelligence (AI) that imitates the way humans gain certain types of knowledge. Deep learning is an important element of data science, which includes statistics and predictive modeling.
 
 ## 2.Objective
-- In this project, we have are focusing on learning, understanding Deep Laearning and its type practically by implementing them on Jupyter notebook using Python Packages Tensorflow and Keras Deep Learning Package. 
+- In this project, we are focusing on learning, understanding Deep Laearning and its type practically by implementing them on Jupyter notebook using Python Tensorflow and Keras Deep Learning Packages. 
 
 ## 3.Steps to execute this Project.
 - NOTE:You can go through the each and every DL algorithm and can use or download for your understanding and reference purpose.
