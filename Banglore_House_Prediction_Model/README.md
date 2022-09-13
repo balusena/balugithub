@@ -34,39 +34,39 @@
 
 ## 4.Screenshots
 ## Bengaluru_House_Price_Forecast_App
-![Bengaluru_House_Price_Forecast_App!](app_images/Bengaluru_House_Price_Forecast_App.jpg)
+![Bengaluru_House_Price_Forecast_App!](Bengaluru_House_Price_Forecast_App.jpg)
 
 ## 5.Heroku deployment
 - The app is deployed on Heroku at ===> https://bengaluru-house-price-forecast.herokuapp.com/
 
 ## Follow these steps to deploy your streamlit app successfully into Heroku Cloud Platform.
--- Deploy using Heroku Git
--  Use git in the command line or a GUI tool to deploy this app.
+- Deploy using Heroku Git
+- Use git in the command line or a GUI tool to deploy this app.
 
--  Install the Heroku CLI
--  Download and install the Heroku CLI.
+- Install the Heroku CLI
+- Download and install the Heroku CLI.
 
--  If you haven't already, log in to your Heroku account and follow the prompts to create a new SSH public key.
+- If you haven't already, log in to your Heroku account and follow the prompts to create a new SSH public key.
 
--- $ heroku login
+- $ heroku login
 -  Clone the repository
 -  Use Git to clone bengaluru-house-price-forecast's source code to your local machine.
 
--- $ heroku git:clone -a bengaluru-house-price-forecast 
--- $ cd bengaluru-house-price-forecast
+- $ heroku git:clone -a bengaluru-house-price-forecast 
+- $ cd bengaluru-house-price-forecast
 
--- Deploy your changes
--  Make some changes to the code you just cloned and deploy them to Heroku using Git.
+- Deploy your changes
+- Make some changes to the code you just cloned and deploy them to Heroku using Git.
 
--- $ git add .
--- $ git commit -am "bengaluru-house-price-forecast_commit"
--- $ git push heroku master
+- $ git add .
+- $ git commit -am "bengaluru-house-price-forecast_commit"
+- $ git push heroku master
 
 
 ## 6.Further work to be done
--1.The current implementation would work well for all the locations in the dataset selection, further iam planning to add the new locations data into the dataset.
--2.Need to implement this project on different important places and locations that are important in real_estate_trend_forecasting and compare results.
--3.Aiming to work with larger and real-world-real_estate-dataset and build an end to end house_price_trend_forecasting application.
--4.Find a way to forecast the house prices of different locations in Bengaluru Silicon Valley with implementation (I would be grateful if someone could help me on this project enhancement.)
+- 1.The current implementation would work well for all the locations in the dataset selection, further iam planning to add the new locations data into the dataset.
+- 2.Need to implement this project on different important places and locations that are important in real_estate_trend_forecasting and compare results.
+- 3.Aiming to work with larger and real-world-real_estate-dataset and build an end to end house_price_trend_forecasting application.
+- 4.Find a way to forecast the house prices of different locations in Bengaluru Silicon Valley with implementation (I would be grateful if someone could help me on this project enhancement.)
 
 
