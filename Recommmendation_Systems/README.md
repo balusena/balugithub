@@ -8,7 +8,7 @@
 
 - 2.Different Types of Recommendation_Systems that are mostly used in real time businness case studies?
 - The 3 important types of Recommendation Systems that are mostly used in business world are:
-<img src="https://github.com/balusena/balugithub/tree/master/Recommmendation_Systems/Rec_Sys_Typs/Recommendation_System_Types">
+<img src="https://github.com/balusena/balugithub/tree/master/Recommmendation_Systems/Recommendation_System_types">
 
 - 1.Content based methods:
 - Define a model for user-item interactions where users and/or items representations are given(explicit features)
