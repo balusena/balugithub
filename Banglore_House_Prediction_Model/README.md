@@ -34,7 +34,7 @@
 
 ## 4.Screenshots
 ## Bengaluru_House_Price_Forecast_App
-![Bengaluru_House_Price_Forecast_App!](Bengaluru_House_Price_Forecast_App.jpg)
+![Bengaluru_House_Price_Forecast_App!](Bengaluru_House_Price_Forecast_App.JPG)
 
 ## 5.Heroku deployment
 - The app is deployed on Heroku at ===> https://bengaluru-house-price-forecast.herokuapp.com/
