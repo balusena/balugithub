@@ -1,11 +1,16 @@
 ## NATURAL_LANGUAGE_PROCESSING
 
 ## 1.Introduction
-- 1.Natural language processing (NLP) refers to the branch of computer science—and more specifically, the branch of artificial intelligence or AI—concerned with giving computers the ability to understand text and spoken words in much the same way human beings can..
+- 1.Natural language processing (NLP) refers to the branch of computer science—and more specifically, the branch of artificial intelligence or AI concerned with giving computers the ability to understand text and spoken words in much the same way human beings can..
 
 ## 2.Objective
 - 1.In this project, we have are focusing on learning, understanding Natural Language Processing and its type practically by implementing them on Jupyter notebook using Python, NLTK Package.
-- 2.The five phases of NLP involve lexical (structure) analysis, parsing, semantic analysis, discourse integration, and pragmatic analysis will be used in this project.
+- 2.The five phases of NLP involves, 
+-   1.lexical (structure) analysis, 
+-   2.parsing, 
+-   3.semantic analysis, 
+-   4.discourse integration and 
+-   5.pragmatic analysis will be used in this project.
 
 ## 3. Steps to execute this Project.
 - NOTE:You can go through the each and every DL algorithm and can use or download for your understanding and reference purpose.
@@ -13,7 +18,7 @@
 - 2.NLP-Natural_Language_Processing/ directory contains of NLP-Natural_Language_Processing executed notebooks.
 
 ## 4.Important Consideration
--This project runs perfectly on a windows machine by following the steps mentioned in section 3. If want to run on a different OS, encoding might need to be changed.
+- This project runs perfectly on a windows machine by following the steps mentioned in section 3. If want to run on a different OS, encoding might need to be changed.
 
 ## 5.Further work to be done
 - 1.Planning to give entire PDF with detailed explanation of real-world-usage of NLP-Natural_Language_Processing and their implementation techniques in different sectors. 
